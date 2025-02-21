@@ -39,3 +39,10 @@ footer {
 body {
     padding-top: 70px;
 }
+
+.text img{
+    max-width:500px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+}
